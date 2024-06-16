@@ -1,0 +1,2 @@
+# Projekt_zaliczeniowy
+Interaktywny słownik pojęć architektoniczno-budowlanych
